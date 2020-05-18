@@ -1,2 +1,4 @@
 This is module B.
 It takes as input the output of module B (*dependency*), it processes it and spits out its own output.
+
+Commit 1: Dev #2 makes this change and then merge it to MAIN before any change on Module_A are synchronized.
