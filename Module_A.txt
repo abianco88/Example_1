@@ -1,2 +1,6 @@
 This is module A.
 It takes some input from disk, it cleans it and spits it out as output for module B to process.
+
+Commit #1.
+
+Commit #3.
