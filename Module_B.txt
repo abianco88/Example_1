@@ -2,3 +2,5 @@ This is module B.
 It takes as input the output of module B (*dependency*), it processes it and spits out its own output.
 
 Commit 1: Dev #2 makes this change and then merges it to MAIN before any change on Module_A is synchronized.
+
+Commit 2: After git fetch origin & git checkout development-developer_1-REBASE & git rebase origin/development-main-REBASE, I have commit 1 from some previous update.

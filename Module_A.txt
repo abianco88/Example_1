@@ -1,2 +1,4 @@
 This is module A.
 It takes some input from disk, it cleans it and spits it out as output for module B to process.
+
+Commit 3: here some other stuff... Now I can merge this developer 1 branch onto developer-main.
