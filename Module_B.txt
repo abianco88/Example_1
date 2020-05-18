@@ -1,0 +1,2 @@
+This is module B.
+It takes as input the output of module B (*dependency*), it processes it and spits out its own output.
