@@ -4,3 +4,5 @@ It takes as input the output of module B (*dependency*), it processes it and spi
 Commit 1: Dev #2 makes this change and then merges it to MAIN before any change on Module_A is synchronized.
 
 Commit 2: After git fetch origin & git checkout development-developer_1-REBASE & git rebase origin/development-main-REBASE, I have commit 1 from some previous update.
+
+Commit 5: After seeing final changes of dev #1 on Module_A, I finishe up my work here (Module_B) and upload it online.
